@@ -9,8 +9,6 @@
 
 ###Tecnologias que já estudei
 
-<div style="display: inline_block"><br/>
-  <img aling="center" alt="hmtl" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> 
-  <img aling="center" alt="hmtl" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
+
   
   
