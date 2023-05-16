@@ -1,6 +1,6 @@
   🎇 Olá! Eu sou Lucas Ribeiro Costa
 
-- ✅ Estudo na Escola Politecnica de Pernambuco(UPE).
+- ✅ Estudo na Escola Politécnica de Pernambuco(UPE).
 - ✅ Graduando em Engenharia da Computação(4/10).
 - ✅ Conhecimento básico em JS(Node.js Express & React), C e Java.
 - 📈 No momento, estudo mais Java( Orientado a Objetos).
